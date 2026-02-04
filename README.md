@@ -4,7 +4,7 @@ Tool otomatisasi commit GitHub yang berjalan menggunakan GitHub Actions. Tool in
 
 ## ✨ Fitur
 
-- 🕒 **Scheduled Commit:** Berjalan otomatis setiap 12 jam.
+- 🕒 **Scheduled Commit:** Berjalan otomatis setiap 6 jam.
 - 🛠 **Manual Trigger:** Dapat dijalankan kapan saja melalui tab Actions di GitHub.
 - 📝 **Random Messages:** Menggunakan pesan commit acak dengan emoji menarik.
 - ⚡ **Zero Maintenance:** Setelah di-setup, semuanya berjalan otomatis di cloud GitHub.
