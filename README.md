@@ -43,4 +43,4 @@ Anda dapat mengubah konfigurasi di file [auto-commit.yml](.github/workflows/auto
 
 ---
 
-Dibuat oleh [mysteria](https://github.com/mysteria404).
+Dibuat oleh [mysteria](https://github.com/mysteria223).
